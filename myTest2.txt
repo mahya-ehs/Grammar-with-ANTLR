@@ -1,0 +1,39 @@
+from java import random => rand;
+import math;
+from java.com import *;
+
+/*this is a test*/
+
+class test2 extends something implements somethingelse with test{
+    var word1 : Float = 25e-78;
+    const word2 = "hello world";
+
+    Int func1(Boolean boo){
+        list.add(78);
+        sum *= (ui / 8) + jj * ll;
+    }
+
+    //hey thereee
+    private Boolean starFunc()
+    {
+        try{
+            print("hey there");
+        }on someerror catch (ex)
+            {
+                print("gotcha!");
+            }
+        while(antlrIsRunning)
+        {
+        }
+
+    }
+    constructooor(Double xy = 6.03)
+    {
+        var sth : new Shape();
+        var myArray : new Array [Double] (4);
+        this.test = test;
+        mul = num % 2;
+    }
+    //some comments
+
+}

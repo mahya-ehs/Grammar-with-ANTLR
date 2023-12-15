@@ -1,0 +1,59 @@
+/*this class is written for the test*/
+//comments and stuff
+
+import math => Math;
+import java.util;
+from somewhere import *;
+from another import sth;
+public class test
+{
+    Test(Int arg4)
+    {
+        this.sth = sth;
+        xy = xy + wz;
+    }
+    public static void main(String args)
+    {
+        int sum = 5;
+        for (ht = 0 ; ht < hq && ht > 5; ht++)
+        {
+            //here's a switch case!!
+            switch(hello)
+            {
+                case 5 :
+                    sb = fg * word;
+                    break;
+                default:
+                    word = test5 << 5;
+            }
+        }
+
+    }
+
+    var name : Double = 25.6;
+    var greetings : String = "how are you?";
+    const sth = "bye";
+
+    //another function
+    private Int anotherFunct()
+    {
+        try{
+            if (num1 > num2)
+            {
+                print("heey");
+            }
+            elif(num1 == num2)
+            {
+                var poi : new Point(3.5, 4);
+            }
+            else
+            {
+                px += word1;
+            }
+        }catch (ex)
+        {
+            print("catch me!");
+        }
+    }
+
+}
